@@ -34,7 +34,7 @@ Compare and contrast Agile and Waterfall methodologies.
 -Agile methodologies use an Iterative and incremental approach while waterfall methodologies use a Linear and sequential approach.
 -Agile methodologies divide the project into sprints or iterations while waterfall methodologies Follow distinct phases like design, development, testing.
 -Agile methodologies are flexible and allows for frequent changes and adjustments throughout the project while waterfall methodologies are rigid, making changes difficult and costly once a phase is complete. 
-- Agile methodologies involve the customer continuously throughout the development process, while Waterfall methodologies typically only engages the customer at the beginning and end of the project.
+-Agile methodologies involve the customer continuously throughout the development process, while Waterfall methodologies typically only engages the customer at the beginning and end of the project.
 - Agile methodologies integrate testing throughout each sprint, while Waterfall methodologies typically conduct testing after all development is completed.
 -Agile methodologies cost and time can be harder to estimate due to ongoing changes, while Waterfall methodologies provide more predictable cost and timeline estimates because of upfront planning.
 -Agile adapts to evolving requirements over time, while Waterfall requires all requirements to be fixed and defined upfront.
@@ -42,8 +42,8 @@ Compare and contrast Agile and Waterfall methodologies.
 -Agile methodologies deliver working software frequently in smaller increments, while Waterfall methodologies deliver the final product after all phases are completed.
 
 What are the main advantages and disadvantages of each?
-Advantages of Agile methodologies
 
+Advantages of Agile methodologies
 -Flexibility and adaptability: Agile allows changes to be made even late in the project, making it ideal for projects with evolving requirements.
 -Higher quality: Frequent testing and iterations help to catch bugs early and improve the quality of the product over time.
 -Improved team and Customer collaboration: Clients are involved throughout the process, ensuring the final product aligns with their expectations.
