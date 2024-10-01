@@ -40,21 +40,23 @@ Compare and contrast Agile and Waterfall methodologies.
 -Agile adapts to evolving requirements over time, while Waterfall requires all requirements to be fixed and defined upfront.
 - Agile is best for projects where requirements are expected to change, while Waterfall is more suitable for projects with well-defined, stable requirements.
 -Agile methodologies deliver working software frequently in smaller increments, while Waterfall methodologies deliver the final product after all phases are completed.
+
 What are the main advantages and disadvantages of each?
--Advantages of Agile methodologies
-Flexibility and adaptability: Agile allows changes to be made even late in the project, making it ideal for projects with evolving requirements.
-Higher quality: Frequent testing and iterations help to catch bugs early and improve the quality of the product over time.
-Improved team and Customer collaboration: Clients are involved throughout the process, ensuring the final product aligns with their expectations.
--Disadvantages of Agile methodologies
-Requires significant customer involvement.
-Less predictability: Budget and timeline estimations can be less accurate due to frequent changes and refinements.
--Advantages of waterfall methodologies
-Clear project structure: Waterfall provides a clear, structured approach with defined stages, making it easier to manage and track progress.
-Predictable outcomes: Since the requirements are set at the beginning, cost and timelines can be estimated with greater accuracy.
-Easy to manage due to its rigidity.
--Disadvatges of waterfall methodologies
-Difficult to accommodate changes because Once a phase is completed, it’s difficult and costly to go back and make changes.
-Testing occurs late in the process, making it harder to fix fundamental issues found in the final stages.
+Advantages of Agile methodologies
+
+-Flexibility and adaptability: Agile allows changes to be made even late in the project, making it ideal for projects with evolving requirements.
+-Higher quality: Frequent testing and iterations help to catch bugs early and improve the quality of the product over time.
+-Improved team and Customer collaboration: Clients are involved throughout the process, ensuring the final product aligns with their expectations.
+Disadvantages of Agile methodologies
+-Requires significant customer involvement.
+-Less predictability: Budget and timeline estimations can be less accurate due to frequent changes and refinements.
+Advantages of waterfall methodologies
+-Clear project structure: Waterfall provides a clear, structured approach with defined stages, making it easier to manage and track progress.
+-Predictable outcomes: Since the requirements are set at the beginning, cost and timelines can be estimated with greater accuracy.
+-Easy to manage due to its rigidity.
+Disadvatges of waterfall methodologies
+-Difficult to accommodate changes because Once a phase is completed, it’s difficult and costly to go back and make changes.
+-Testing occurs late in the process, making it harder to fix fundamental issues found in the final stages.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 In what types of projects might Agile be more beneficial than Waterfall, and  provide examples of each? 
