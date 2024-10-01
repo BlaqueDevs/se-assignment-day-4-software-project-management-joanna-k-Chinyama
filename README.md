@@ -151,6 +151,7 @@ how can Gantt charts assist in the development of a detailed project schedule th
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 What are the core issues that your software aims to address?
+
 -Political injustice.
 -Lack of transparency in government.
 -Lack of citizen participation in national affairs and decision making.
