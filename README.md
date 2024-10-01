@@ -47,13 +47,16 @@ Advantages of Agile methodologies
 - Flexibility and adaptability: Agile allows changes to be made even late in the project, making it ideal for projects with evolving requirements.
 - Higher quality: Frequent testing and iterations help to catch bugs early and improve the quality of the product over time.
 - Improved team and Customer collaboration: Clients are involved throughout the process, ensuring the final product aligns with their expectations.
+
 Disadvantages of Agile methodologies
 - Requires significant customer involvement.
 - Less predictability: Budget and timeline estimations can be less accurate due to frequent changes and refinements.
+
 Advantages of waterfall methodologies
 - Clear project structure: Waterfall provides a clear, structured approach with defined stages, making it easier to manage and track progress.
 - Predictable outcomes: Since the requirements are set at the beginning, cost and timelines can be estimated with greater accuracy.
 - Easy to manage due to its rigidity.
+
 Disadvantages of waterfall methodologies
 - Difficult to accommodate changes because Once a phase is completed, it’s difficult and costly to go back and make changes.
 - Testing occurs late in the process, making it harder to fix fundamental issues found in the final st
