@@ -11,6 +11,7 @@ Why is timely delivery crucial in software project management?
 -Reputation: Consistently meeting deadlines strengthens the reputation of the development team and the company, attracting future business opportunities.
 
 How project managers can ensure deadlines are met?
+
 -Clear Project Planning: this can be achieved by setting realistic timelines based on project scope, team    capacity, and resources as well as by breaking down large projects into smaller, manageable milestones to monitor progress continuously.
 -Effective Communication: Maintain open communication with all stakeholders to ensure alignment on project goals, timelines, and progress
 -Define Requirements Clearly: Establish clear and detailed project requirements upfront to minimize scope creep (changes that lead to delays).
@@ -36,6 +37,7 @@ What strategies can be used to prevent budget overruns?
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Compare and contrast Agile and Waterfall methodologies. 
+
 1.Agile methodologies use an Iterative and incremental approach while waterfall methodologies use a Linear and sequential approach.
 2.Agile methodologies divide the project into sprints or iterations while waterfall methodologies Follow distinct phases like design, development, testing.
 3.Agile methodologies are flexible and allows for frequent changes and adjustments throughout the project while waterfall methodologies are rigid, making changes difficult and costly once a phase is complete. 
@@ -68,6 +70,7 @@ Disadvantages of waterfall methodologies
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 In what types of projects might Agile be more beneficial than Waterfall, and  provide examples of each? 
+
 1. Projects with Evolving or Uncertain Requirements: Agile is ideal for projects where requirements are likely to change frequently or are not well-defined at the start. It allows teams to adapt and make adjustments as new information or feedback is received. 
 Example: A mobile app where new features and user feedback cause frequent changes in design and functionality. 
 2. Customer-Centric Projects: If frequent customer feedback is critical to the success of the project, Agile works well since it involves regular interaction with stakeholders. Example: A custom e-commerce website where clients regularly provide input on design, user experience, and features during development.
@@ -81,6 +84,7 @@ Example: A startup creating an MVP (Minimum Viable Product) for a new software  
 Example: A popular social media platform that regularly adds new features and updates based on user feedback and market trends.
 
 In what types of projects might Waterfall be more beneficial than Agile and provide examples of each? 
+
 1. Projects with Fixed Requirements: projects with well-defined, stable requirements where changes are unlikely.
 Example: Developing software for a government agency where the requirements are fixed and predefined by regulatory standards. Since changes are rare, Waterfall’s linear process is ideal for following these strict guidelines.
 2. Well-Defined, Predictable Projects:  projects with specific goals and outcomes that can be easily anticipated, allowing for effective planning and execution.
@@ -94,6 +98,7 @@ Example: Developing a payroll system based on similar previous projects. Waterfa
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Methods for Ensuring Quality Assurance
+
 -Automated Testing: Implement automated tests for functionality, performance, and security to quickly identify defects. This allows for continuous testing throughout the development process.
 -Code Reviews: Conduct regular code reviews where team members examine each other’s code for errors, best practices, and adherence to coding standards. This helps catch issues early and promotes knowledge sharing.
 -Continuous Integration/Continuous Deployment (CI/CD): Use CI/CD pipelines to automatically test and deploy code changes. This ensures that new code is integrated and validated regularly, reducing the risk of defects in the final product.
@@ -101,6 +106,7 @@ Methods for Ensuring Quality Assurance
 -Documentation and Standards: Maintain thorough documentation of requirements, processes, and testing strategies. Establish coding and QA standards to ensure consistency and quality across the project.
 
 Why is it important to maintain high standards?
+
 -Improved Reliability: High-quality standards lead to fewer defects and issues, resulting in a more reliable and stable product that meets user needs.
 -Cost Efficiency: Identifying and fixing issues early in the development process is generally more cost-effective than addressing problems after deployment.
 -Enhanced User Satisfaction: Delivering a high-quality product that meets or exceeds user expectations fosters customer satisfaction and loyalty.
@@ -117,6 +123,7 @@ Defining the project scope is crucial for successful project planning because it
 -Enhances Communication: A clear scope facilitates better communication between stakeholders, ensuring everyone agrees on the project’s direction and outcomes from the beginning.
 
 What is a Work Breakdown Structure (WBS) ?
+
 A Work Breakdown Structure (WBS) is a tool used in project management to break down a project into smaller, more manageable components. It shows the tasks needed to complete the project in a clear, step-by-step order.
 Why is Work Breakdown Structur  Useful?
 -Improves Clarity: Work breakdown structure provides a clear overview of all project tasks, helping team members understand their roles and responsibilities.
@@ -125,8 +132,8 @@ Why is Work Breakdown Structur  Useful?
 -Reduces Complexity: It simplifies complex projects by dividing them into manageable sections, making it easier to organize and execute the project step-by-step.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-
 What are the benefits of developing a detailed project schedule?
+
  Developing a detailed project schedule offers several benefits, as it helps ensure the project stays on track and meets deadlines.
 -It provides a clear timeline of all tasks, helping everyone understand when each activity needs to be completed.
 - It helps allocate resources (people, time, budget) more effectively, ensuring everything is in place when needed.
@@ -135,6 +142,7 @@ What are the benefits of developing a detailed project schedule?
 -it helps in Setting deadlines for each task ensuring that team members know their responsibilities and when they must complete them increasing accountability.
 
 how can Gantt charts assist in the development of a detailed project schedule this process?
+
 -Visual Representation: Gantt charts provide a visual timeline of the project’s tasks, showing when each task starts and ends.
 -Dependencies: They show task dependencies, helping teams understand which tasks rely on others to be completed before starting.
 -Progress Tracking: Gantt charts make it easy to track task completion and adjust schedules if necessary.
@@ -149,6 +157,7 @@ What are the core issues that your software aims to address?
 -Lack of accountability from people in power.
 
 Why are these problems significant to your target audience?
+
 These problems are significant to my target audience because they directly affect their everyday lives and the future of their community. Political injustice and lack of transparency lead to mistrust in the government, leaving citizens in the dark about important decisions that impact them. The lack of participation in national affairs limits people’s ability to influence policies that could improve their circumstances. Additionally, without accountability, those in power continue to make harmful decisions without consequence, perpetuating inequality and injustice. My audience is eager for a platform that empowers them to stay informed about national affairs, engage in governance, track government progress, ensure transparency in how national resources are being used and hold leaders accountable for their actions all in one place with ease.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
